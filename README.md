@@ -1,2 +1,2 @@
-# jyotirjay-demo
-this is my first Git Repository
+# Jyotirjay-demo
+This is my first Git Repository
